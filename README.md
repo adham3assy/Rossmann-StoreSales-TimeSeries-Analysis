@@ -59,7 +59,7 @@ Tree-based regressors trained on engineered features:
 - **Statsmodels**, **Prophet**, **ARIMA** – (optional for time series models)
 - **Jupyter Notebook** – Development and exploration
 
-## 📅 Time Series Split
+## Time Series Split
 
 Instead of random train-test split, we used **chronological split**:
 - 90% earliest data for training
